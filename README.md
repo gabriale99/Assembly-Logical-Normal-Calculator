@@ -1,2 +1,2 @@
-# Pokemon-Fighting-Game
-# Pokemon-Fighting-Game
+#Assembly-Logical-Normal-Calculator
+Simple logical calculator written in assembly
